@@ -5,9 +5,9 @@
 
 ## 수업의 목표
 1. Basic Template
-    - HTML, CSS 기본
+    - **HTML**, *CSS* 기본
 2. Image Slider
-3. Git 을 이용한 버전 관리
+3. ***Git*** 을 이용한 버전 관리
 
 > FrontEnd UI  구현을 위한 HTML, CSS, Javascirpt, Jquert 실습
 
@@ -18,3 +18,13 @@
     });
 });
 ````
+````html
+<h2>HTML입니다.</h2>
+````
+### 링크 사이트
+[Google](http://google.com)
+
+
+
+
+
